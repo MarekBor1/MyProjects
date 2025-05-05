@@ -15,6 +15,7 @@ Includes UML diagrams describing system structure and flow.
 ✅ UML diagrams of system architecture.
 
 ## Project Structure
+```
 Serwers_Project/
 ├── NetSim/
 │ ├── package.cpp
@@ -29,7 +30,7 @@ Serwers_Project/
 │ └── servers_plantuml.txt
 ├── test/
 │ └── test_servers.py
-
+```
 ## Requirements
 - C++11 compiler (for NetSim)
 - Python 3.x
