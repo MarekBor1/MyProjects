@@ -53,8 +53,8 @@ Kopiuj
 Edytuj
 pytest servers_test.py
 ```
-##Documentation
+## Documentation
 System diagrams can be found in /docs/servers_plantuml.uml and /Serwery/PNG UML.png.
 
-Author
+## Author
 Marek Borkowski
